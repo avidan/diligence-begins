@@ -1,2 +1,0 @@
-# diligence-begins
-Begin app
